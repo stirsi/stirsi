@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and data analysis
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on Data Analyst projects
-- 📫 How to reach me ...
+- 📫 How to reach me [...](https://github.com/stirsi)
 
 <!---
 stirsi/stirsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
