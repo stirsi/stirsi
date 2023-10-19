@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stirsi
 - 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently practicing my SQL skills while learning Python and R.
 - 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 How to reach me [...](https://github.com/stirsi)
 
